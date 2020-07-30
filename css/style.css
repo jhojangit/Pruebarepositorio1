@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+}
+
+.bloques1{
+    background-color: rgb(201, 155, 235);
+    height: 180px;
+    text-align: center;
+
+}
+
